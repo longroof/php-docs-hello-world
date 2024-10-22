@@ -1,5 +1,5 @@
 <?php
 
-echo "Hello 241022-tue-id-adding-Azure World!";
+echo "Hello 241022Azure World!";
 
 ?>
