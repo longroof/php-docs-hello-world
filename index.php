@@ -1,5 +1,5 @@
 <?php
 
-echo "Hello Azure NT43 AppServices World!!";
+echo "Hello NT43 Azure AppServices World!!";
 
 ?>
