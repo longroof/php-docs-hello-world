@@ -1,5 +1,5 @@
 <?php
 
-echo "Hello Azure NT43 2026-06-30!!";
+echo "Hello Azure CB41 2026-07-02!!";
 
 ?>
